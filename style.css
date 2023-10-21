@@ -1,0 +1,46 @@
+#nav{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+#navi{
+    height: 100px;
+    width: 1200px;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    padding-top: 10px;
+}
+*{
+   /* background-image: url(img/Screenshot\ 2023-10-13\ 192327.png);
+    background-size: cover;*/
+}
+h1{
+    text-shadow: 10px 10px 10px;
+}
+table{
+    border-collapse: separate;
+    border-width: 3px;
+    border-color: black;
+    padding: 10px;
+
+}
+.empty{
+    border-style: solid;
+    padding: 10px;
+    font-size: 25px;
+    border-top-color: red;
+    border-top-width: 15px;
+    border-bottom-color: yellow;
+    border-bottom-width: 15px;
+    border-right-color: blue;
+    border-right-width: 15px;
+}
+a:hover{
+    color:black;
+}
+pre:first-line{
+   color: red;
+   text-transform: uppercase;
+}
